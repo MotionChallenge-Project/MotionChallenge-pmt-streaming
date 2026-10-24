@@ -5,8 +5,8 @@
 ## Install and run
 
 ```bash
-git clone --recurse-submodules https://github.com/MotionChallenge-Project/motion-challenge-pmt-streaming.git
-cd motion-challenge-pmt-streaming
+git clone --recurse-submodules https://github.com/MotionChallenge-Project/MotionChallenge-pmt-streaming.git
+cd MotionChallenge-pmt-streaming
 uv sync
 uv run evaluate.py
 ```
